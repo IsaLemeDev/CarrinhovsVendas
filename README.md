@@ -1,0 +1,1 @@
+O propósito do teste A/B é testar mudanças relacionadas à introdução de um sistema de recomendação. O resultado esperado é que em até 14 dias após o cadastro, usuários mostrem uma conversão melhor nas visualizações de página do produto em adicionar itens ao carrinho e consequentemente nas compras.
